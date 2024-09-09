@@ -13,4 +13,10 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  padding: 0px 40px 40px 40px;
+  background-color: black;
+}
+
+html div {
+  padding-bottom: 15px;
 }
