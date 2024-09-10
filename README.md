@@ -1,50 +1,47 @@
-# React + TypeScript + Vite
+# Projeto Solar System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto proposto pela Trybe, no qual contém informações sobre o sistema solar como planetas existentes, e também uma lista das princpais missões espaciais já realizadas.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Visão geral](#visão-geral)
+  - [O desafio](#o-desafio)
+  - [Screenshots](#screenshots)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## Expanding the ESLint configuration
+## Visão geral
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### O desafio
 
-- Configure the top-level `parserOptions` property like this:
+Funcionalidades:
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- Renderização de uma lista com os planetas do Sistema Solar
+- Renderização de uma lista com as missões espaciais
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## Screenshots
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+### PC:
+![](./images/screenshots/pc.png)
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+### Mobile:
+![](./images/screenshots/mobile.png)
+
+## Deploy Link
+
+### [Netlify](https://vmd-solar-system.netlify.app)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Responsive Design
+- [React.js](https://reactjs.org/)
+
+## Author
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-s-melo/)
