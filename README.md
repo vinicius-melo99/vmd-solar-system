@@ -41,6 +41,7 @@ Funcionalidades:
 - Flexbox
 - Responsive Design
 - [React.js](https://reactjs.org/)
+- Typescript
 
 ## Autor
 
