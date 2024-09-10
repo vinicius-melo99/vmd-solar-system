@@ -7,6 +7,7 @@ Este é um projeto proposto pela Trybe, no qual contém informações sobre o si
 - [Visão geral](#visão-geral)
   - [O desafio](#o-desafio)
   - [Screenshots](#screenshots)
+  - [Deploy Link](#deploy-link)
 - [Meu processo](#meu-processo)
   - [Construido com](#construido-com)
 - [Autor](#autor)
@@ -29,7 +30,7 @@ Funcionalidades:
 
 ## Deploy Link
 
-### [Netlify](https://vmd-solar-system.netlify.app)
+### Acesse o deploy do projeto na [Netlify](https://vmd-solar-system.netlify.app)
 
 ## Meu processo
 
@@ -41,6 +42,6 @@ Funcionalidades:
 - Responsive Design
 - [React.js](https://reactjs.org/)
 
-## Author
+## Autor
 
-- [LinkedIn](https://www.linkedin.com/in/vinicius-s-melo/)
+- Vinicius Melo: [LinkedIn](https://www.linkedin.com/in/vinicius-s-melo/)
