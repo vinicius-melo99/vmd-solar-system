@@ -7,9 +7,9 @@ Este é um projeto proposto pela Trybe, no qual contém informações sobre o si
 - [Visão geral](#visão-geral)
   - [O desafio](#o-desafio)
   - [Screenshots](#screenshots)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Meu processo](#meu-processo)
+  - [Construido com](#construido-com)
+- [Autor](#autor)
 
 ## Visão geral
 
@@ -23,18 +23,17 @@ Funcionalidades:
 ## Screenshots
 
 ### PC:
-![](./images/screenshots/pc.png)
+![](./public/solarsystem1.png)
 
-### Mobile:
-![](./images/screenshots/mobile.png)
+![](./public/solarsystem2.png)
 
 ## Deploy Link
 
 ### [Netlify](https://vmd-solar-system.netlify.app)
 
-## My process
+## Meu processo
 
-### Built with
+### Construido com
 
 - Semantic HTML5 markup
 - CSS custom properties
